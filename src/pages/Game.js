@@ -125,7 +125,6 @@ class Game extends React.Component {
       score = scoreNumber + (timer * difficultPoints);
       dispatch(ScoreAction(score));
     } else {
-      console.log(respostaCorreta.classList)
       respostaCorreta.classList.add('correct');
       answers.forEach((resposta) => { resposta.classList.add('incorrect'); });
     }
