@@ -23,14 +23,6 @@ Nesse projeto, você será capaz de:
 
 ---
 
-# Entregáveis
-
-Para entregar o seu projeto você deverá criar um Pull Request neste repositório.
-
-Lembre-se que você pode consultar nosso conteúdo sobre Git & GitHub no Course sempre que precisar!
-
----
-
 ## O que foi desenvolvido
 
 Jogo de perguntas e respostas baseado no jogo **Trivia** _(tipo um show do milhão americano rs)_ utilizando _React e Redux_. Funcionalidades presentes:
@@ -41,14 +33,6 @@ Jogo de perguntas e respostas baseado no jogo **Trivia** _(tipo um show do milh�
   - Configurar algumas opções para o jogo em uma tela de configuração acessível a partir do cabeçalho do app.
 
 ---
-
-# Requisitos do projeto
-
-:warning: **Lembre-se que o seu projeto só será avaliado se estiver passando pelos checks do Linter** :warning:
-
-Nesse projeto, a pessoa que joga deve conseguir completar o jogo e conseguir ver seu placar depois de responder todas as 5 perguntas, além de acessar a tela de configurações e de ranking.
-
-:warning: **Lembrem-se de utilizar os conhecimentos adquiridos ao longo dos últimos projetos nas ferramentas do React como o Router, Link, Redux e testes para ajudá-los a completar os requisitos.** :warning:
 
 ### Tela de início/login
 
