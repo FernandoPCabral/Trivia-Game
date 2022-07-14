@@ -1,7 +1,7 @@
 
 # Sumário
 
-Boas vindas ao repositório do projeto de Trivia! O projeto foi realizado em grupo juntamente com @gabrielfreitas96 e @Gabriel-Lambertucci como parte do curso de Programação e Desenvolvimento Web e simula um Jogo de Perguntas e Respostas.
+Boas vindas ao repositório do projeto de Trivia! O projeto foi realizado em grupo juntamente com @GabrielFreitas96 e @Gabriel-Lambertucci como parte do curso de Programação e Desenvolvimento Web e simula um Jogo de Perguntas e Respostas.
 
 ---
 
